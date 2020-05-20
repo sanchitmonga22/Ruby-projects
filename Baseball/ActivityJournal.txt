@@ -1,0 +1,30 @@
+SWEN-250 Activity Reflection
+Database -- SQL Practice - Relational Joins
+
+Name: Sanchit Monga
+
+================================================================
+Queries 1 through 10:
+Estimated Time	01 00
+Plan:To follow the instructions and select the required data.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	01 40
+Observations:At first it was difficult to understand the material. I think the types of operations are not clearly mentioned in the ppts. So i had to look up on the web and learn. It took me longer than expected just becuase i was not familiar with the language. But once I finished the first 3 queries it became easier for me to understand.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+Queries 11 through 15 (extra credit if done):
+Estimated Time	01 00
+Plan:To follow the instructions and select the required data.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	HH MM
+Observations:Had to look for some of the functions online and learn about them. Functions like AVG, GROUP BY and ORDER BY are the ones that were mostly used.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

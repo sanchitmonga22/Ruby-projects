@@ -1,0 +1,44 @@
+SWEN-250 Activity Reflection
+Ruby - GeoCalc
+
+Name: Sanchit Monga
+
+================================================================
+Start activity 1 -- complete and test the Line class in line.rb
+Estimated Time	01 00
+Plan: Implement the methods in the class by following the instructions
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	00 30
+Observations: Just had to figure out the syntax and the logic was pretty straight forward.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+
+Start activity 2 -- complete and test the Circle class in circle.rb
+Estimated Time	00 30
+Plan: Implement the methods in the class by following the instructions
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	00 20
+Observations: To create the objects of another class and use their methods to find the radius of the points. Then use that radius to do the math calculations.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+
+Start activity 3 -- complete and test the Rectangle class in rectangle.rb
+Estimated Time	00 40
+Plan: Implement the methods in the class by following the instructions
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	00 20
+Observations:Implemented all the methods by viewing the methods of other classes used for reference.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

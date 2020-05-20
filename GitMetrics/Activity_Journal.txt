@@ -1,0 +1,19 @@
+SWEN-250 Activity Reflection
+Ruby - Git Repository Metrics
+
+Name: Sanchit Monga
+
+================================================================
+Start
+Estimated Time	01 00
+Plan:To follow the instructions and implement according to that
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	01 30
+Observations:Learny how to make test functions. The output was not as expected at first but went through the program again and fixed all the issues.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+

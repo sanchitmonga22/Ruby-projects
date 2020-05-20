@@ -1,0 +1,33 @@
+SWEN-250 Activity Journal
+Ruby  Diet Manager
+
+Name:Sanchit Monga
+
+NOTE: Create additional Part 1 & 2 log entries 
+based on the order of implementation.
+
+================================================================
+Part 1 Product & Unit Test Classes  Start
+Estimated Time	04 00
+Plan for this level:To follow the instructions and search on web to find tools to complete the given task
+
+Part 1 Product & Unit Test Classes  Completed
+Actual Time    06 00
+Lessons learned, problems encountered, obstacles overcome, etc.
+The instructions given for each function were very confusing and I was having problem in understanding what to do in the file was a problem. I had to visit the samle files and go through unit testing to complete the first part.
+================================================================
+Part 2 DietManager Levels Start
+Estimated Time	04 00
+Plan for this level: :To follow the instructions and search on web to find tools to completed the given task
+
+Part 2 DietManager Levels Completed
+Actual Time	03 00
+Lessons learned, problems encountered, obstacles overcome, etc.
+Implemented and tested level 1 ,2 and 3 but still struggling with the test of the log.
+The object of the log class is named log and the hash function in that class is also log. I am having problem in accessing the hash function as I need all the data. It shows an error whenever i use @log.log and I am still trying to figure it out.
+Implemented and tested the last two levels. Everything except show all is working. All the commands verified and tested and I also checked all the .txt files to confirm whether the save function was working or not
+================================================================
+Overall Summary
+Estimated Total Time	08 00
+Actual Total Time	
+Project reflection: Learnt how to look up stuff online and how to use attributes of different classes and complete the task. Learnt why and when to choose which data structure to solve the problem.

@@ -1,0 +1,19 @@
+SWEN-250 Activity Reflection
+Ruby - Factorial with Unit Testing
+
+Name: Sanchit Monga
+
+================================================================
+Start
+Estimated Time	02 00
+Plan:Read the instructions and follow them. Try to implement the program step by step.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	00 40
+Observations: Followed the instructions step by step and implemented the required functionality in the program. 
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+
